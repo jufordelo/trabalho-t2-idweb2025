@@ -1,0 +1,23 @@
+.caixa {
+    align-items: center;
+   
+}
+.caixa2{
+    background-color: rgb(157, 236, 232);
+  border: 1px solid rgb(143, 219, 224);
+  padding: 10px
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #79d5d8c0; 
+  padding: 15px; 
+  width: 300px;
+  margin: 0 auto; 
+  border-radius: 10px; 
+}
+ img {
+  max-width: 100%; 
+  height: auto; 
+}
